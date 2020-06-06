@@ -1,0 +1,48 @@
+body {
+  background-color :#1E555C;
+  font-family:Architects Daughter,
+  sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+#session-label {
+  color: white;
+  font-size: 30px;
+}
+
+#break-label {
+  color: white;
+  font-size: 30px;
+}
+
+#break-length {
+  color: white;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+#session-length {
+  color: white;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+#time-left {
+  border: 1px solid wheat;
+  height: 25px;
+  width: 119px;
+  margin: auto;
+  border-radius: 19px;
+  padding: 40px;
+  color: aquamarine;
+  font-size: 40px;
+  margin-top: 29px;
+}
+
+h1 {
+  font-size: 50px;
+  color: bisque;
+}
