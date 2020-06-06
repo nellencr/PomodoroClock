@@ -1,11 +1,11 @@
-# `FCC Drum Machine`
+# `FCC Pomodoro Clock`
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## `Description`
-It is frontend react-Drum-app 
+It is frontend react-PomodoroClock-app 
 
 
 ## `Built With`
@@ -21,7 +21,7 @@ It is frontend react-Drum-app
 
 
 ## `Live Demo`
- Click [here](https://youthful-haibt-8e402e.netlify.app) for Live Demo
+ Click [here](https://friendly-keller-a5079e.netlify.app) for Live Demo
 
 
 👤 **Author**
